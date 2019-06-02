@@ -1,2 +1,1 @@
-# css-exercise-two
-Assignment for Fundamentals
+Applied appropriate sizes to the typography to accurately weight the importance of specific portions of the content provided in the index.html file and used line-height properties to improve the readability of the site. 
