@@ -1,1 +1,1 @@
-Applied appropriate sizes to the typography to accurately weight the importance of specific portions of the content provided in the index.html file and used line-height properties to improve the readability of the site. 
+In this repository, I forked code from Chris Courtney, I learned how to apply hierarchy in code by using targeted classes to change fonts sizes, fixed broken image links, and adjusted line height to something readable and navigable. 
